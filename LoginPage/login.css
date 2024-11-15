@@ -1,0 +1,22 @@
+#login{ 
+    text-align: center;
+}
+
+
+p,button{
+    color: white;
+    background-color:  rgb(68, 60, 209);
+    font-weight: bold;
+    
+}
+p,input,button{    
+    box-sizing: border-box;
+    width: 250px;
+    margin: 10px auto;
+    border-radius: 5px;
+    border: 2px solid rgb(68, 60, 209);
+    font-family:'Myriad Pro', sans-serif;
+    padding: 10px;
+}
+
+
